@@ -59,10 +59,10 @@ Full reasoning for every decision is documented in the workbook's cleaning log â
 
 ## ðŸ“Š Dashboard Preview
 
-![Dashboard Screenshot](assets/<img width="1920" height="1080" alt="Dashboard" src="https://github.com/user-attachments/assets/755682b8-b487-400b-984a-e8bd9e934aae" />
+![Dashboard Screenshot](assets/<img width="1874" height="708" alt="Dashboard" src="https://github.com/user-attachments/assets/ce6adbc7-3c8b-4ae2-81b2-398531f54770" />
+
 )
 
-*Replace `assets/dashboard.png` with your actual dashboard screenshot before publishing.*
 
 The dashboard includes:
 - KPI cards: Total Revenue, Total Profit, Total Marketing Spend, Average Profit Margin
